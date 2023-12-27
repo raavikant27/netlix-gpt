@@ -13,7 +13,7 @@ const Footer = () => {
             </li>
             <li className=" cursor-pointer hover:text-gray-600">
               <a
-                href="https://www.linkedin.com/in/kaji-azad-ali-4bb706249/"
+                href="https://www.linkedin.com/in/ravikant-singh-712395158/"
                 rel="noreferrer"
                 target="_blank"
               >
