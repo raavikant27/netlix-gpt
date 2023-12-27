@@ -12,7 +12,11 @@ const Footer = () => {
               Privacy Policy
             </li>
             <li className=" cursor-pointer hover:text-gray-600">
-              <a href="https://www.linkedin.com/in/kaji-azad-ali-4bb706249/" rel="noreferrer" target="_blank">
+              <a
+                href="https://www.linkedin.com/in/kaji-azad-ali-4bb706249/"
+                rel="noreferrer"
+                target="_blank"
+              >
                 Contact
               </a>
             </li>
@@ -22,12 +26,12 @@ const Footer = () => {
         <div className=" text-sm text-gray-400 mt-8 w-fit mx-auto">
           Created By{" "}
           <a
-            href="https://www.linkedin.com/in/kaji-azad-ali-4bb706249/"
+            href="https://www.linkedin.com/in/ravikant-singh-712395158/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-gray-600"
           >
-            Kaji Azad Ali
+            Ravikant singh
           </a>
         </div>
       </div>
